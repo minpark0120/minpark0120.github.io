@@ -12,6 +12,8 @@ url: http://starry99.github.io/catbook # the base hostname & protocol for your s
 permalink: /:year-:month/:title
 timezone:
 
+disqus-shortname : minpark0120
+
 favicon: /assets/img/favicon.ico
 
 google_analytics: #UA—XXXXXXXX-X
