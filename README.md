@@ -30,6 +30,3 @@ type: *name*
 ```
 Then the number of pages in the category will be displayed.
 
-## License
-
-[MIT License](https://opensource.org/licenses/MIT)
