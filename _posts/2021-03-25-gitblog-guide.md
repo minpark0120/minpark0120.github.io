@@ -30,7 +30,7 @@ comments: true
 &nbsp;&nbsp;&nbsp;	-> It might be easy for you to reselect the themes.
 
 *Guided from.
-&nbsp;&nbsp;&nbsp;https://recoveryman.tistory.com/323?category=635733
-&nbsp;&nbsp;&nbsp;https://zeddios.tistory.com/34
+&nbsp;&nbsp;&nbsp; https://recoveryman.tistory.com/323?category=635733
+&nbsp;&nbsp;&nbsp; https://zeddios.tistory.com/34
 
 
