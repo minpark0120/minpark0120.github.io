@@ -12,16 +12,10 @@ ex) ./d/minpark0120.github.io/categories
 &nbsp;
 
 # 2. make [listname].html File
-
-## add this in your code
 ```
----
-layout: page
-type: [list name] 
----
-+ {% include archive.html %}
+a. See other [].html] file
+b. change name of the list(in my case, it is type)
 ```
-<bs>
 
 # 3. Goes to _posts folder
 
