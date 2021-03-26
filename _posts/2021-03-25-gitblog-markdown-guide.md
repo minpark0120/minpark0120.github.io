@@ -59,14 +59,22 @@ int main()
 	---
 ```
 
-## Make one byte space
+## space test
 ```
+1
 &nbsp;
-```
+2
+= 1 2
 
-## Spacing
-```
+2
 <bs>
+3
+= 2 (\n)(\n) 3
+
+3
+<br>
+4
+= 3 (\n) 4
 ```
 
 

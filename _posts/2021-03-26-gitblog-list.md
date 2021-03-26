@@ -3,14 +3,6 @@ title: Git Blog Guide (adding list)
 categories: [git_blog_guide]
 comments: true
 ---
-# 0. Test
-1
-&nbsp;
-2
-<bs>
-3
-<br>
-4
 
 
 # 1. Goes to categories directory
@@ -33,8 +25,8 @@ type: [list name]
 <bs>
 
 # 3. Goes to _posts folder
+
 ```
 If you put new list name in your md's categories,
 new list will come out!
 ```
-
