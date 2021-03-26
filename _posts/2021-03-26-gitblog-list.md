@@ -20,7 +20,7 @@ layout: page
 type: [list name] 
 ---
 
-{% include archive.html %}
+[{% include archive.html %}]
 ```
 <bs>
 
