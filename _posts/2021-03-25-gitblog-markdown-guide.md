@@ -1,16 +1,17 @@
 ---
 title: Markdown Guide
 categories: [git_blog_guide]
+comments: true
 ---
 
-#1. Font Size
+# 1. Font Size
 
 # Head 1: ```#Head1```
 ## Head 2: ```##head2```
 ### Head 3: ```###head3'```
 
 
-#2. Code block
+# 2. Code block
 
 A Python Example:
 
@@ -49,7 +50,7 @@ int main()
 ```
 
 
-
+# To know
 ## Always write these first
 ```
 	---
@@ -79,7 +80,7 @@ int main()
 
 
 
-#Attach Image
+# Attach Image
 ```
 Format
 ![image name](./directory/image_name.PNG)
