@@ -20,17 +20,17 @@ Go to Setting
 # 3. Change the direction of your website
 
 ```
-* direction name must be same with your github name and add github.io
+* direction name must be same with your github name and add github.io behind
 ```
 ![4](https://user-images.githubusercontent.com/59559270/112456325-026d5180-8d9e-11eb-9a39-4854d3bb4ebf.png)
 &nbsp;
 ```
-* You can buy web name if you buy it
-* If git does not make your web, then change (.) to (,) -> it might fix your problem
+* You can use your web name if you buy it
+* If git does not make your web, then change (.) to (,) -> it may fix your problem
 ```
 &nbsp;
 # 4. Check whether your website has been made
-	If chekced box becomes green, it means website has been made
+	If chekced box becomes green, it means that website has been made
     
 ![5](https://user-images.githubusercontent.com/59559270/112456449-20d34d00-8d9e-11eb-822d-d9b2a980f2c4.png)
 &nbsp;
@@ -41,7 +41,7 @@ Go to Setting
 ```
 *There might be config error for your website <bs>
 	-> check https://recoveryman.tistory.com/322?category=635733 
-	-> It might be easy for you to reselect the themes.
+	-> It might be easy for you to reselect themes.
 ```
 ```
 *Guided from.
