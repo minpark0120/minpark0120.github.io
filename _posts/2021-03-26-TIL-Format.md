@@ -1,5 +1,5 @@
 ---
-title: TIL format
+title: TIL-Format
 categories: [til]
 ---
 
