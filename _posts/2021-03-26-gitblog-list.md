@@ -19,9 +19,8 @@ ex) ./d/minpark0120.github.io/categories
 layout: page
 type: [list name] 
 ---
-
-[{% include archive.html %}]
 ```
+### {% include archive.html %}
 <bs>
 
 # 3. Goes to _posts folder
