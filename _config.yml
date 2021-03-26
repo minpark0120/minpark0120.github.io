@@ -24,11 +24,11 @@ user:
   picAlt: "minpark0120"
   job: Student
   aboutme: true # comment this out if you don't need the 'about' page.
-
+  README.md
+  github
 exclude:
-  - README.md
   - LICENSE
-  - github
+  
 
 defaults:
   - scope:
