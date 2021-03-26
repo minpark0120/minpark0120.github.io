@@ -6,17 +6,19 @@ comments: true
 
 #1. Download jekyll-themes
 ```
-	 http://jekyllthemes.org/
-     Select what you prefer(check demo)
+http://jekyllthemes.org/
+Select what you prefer(check demo)
 ```
 
 #2. Fork to your git
 ```
-	Go to Setting
-    ```
+Go to Setting
+``````
+
 ![3](https://user-images.githubusercontent.com/59559270/112564772-32a90480-8e1f-11eb-9fc1-a4e034b104cd.png)
 
 #3. Change the direction of your website
+
 ```
 	* direction name must be same with your github name and add github.io
 ```
@@ -34,11 +36,11 @@ comments: true
 ![6](https://user-images.githubusercontent.com/59559270/112456999-a656fd00-8d9e-11eb-8b73-6abb13b0ee98.PNG)
 <bs>
 *There might be config error for your website
-&nbsp;&nbsp;&nbsp;	-> check https://recoveryman.tistory.com/322?category=635733
+&nbsp;&nbsp;&nbsp;	-> check https://recoveryman.tistory.com/322?category=635733<bs>
 &nbsp;&nbsp;&nbsp;	-> It might be easy for you to reselect the themes.
-
-*Guided from.
-&nbsp;&nbsp;&nbsp; https://recoveryman.tistory.com/323?category=635733
+<bs>	
+*Guided from.<bs>
+&nbsp;&nbsp;&nbsp; https://recoveryman.tistory.com/323?category=635733<bs>
 &nbsp;&nbsp;&nbsp; https://zeddios.tistory.com/34
 
 
