@@ -1,6 +1,6 @@
 ---
 title: Git Blog Guide
-categories: writing
+categories: [git_blog_guide]
 comments: true
 ---
 

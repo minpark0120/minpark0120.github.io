@@ -1,6 +1,6 @@
 ---
 title: Markdown Guide
-categories: [writing]
+categories: [git_blog_guide]
 ---
 
 #1. Font Size
