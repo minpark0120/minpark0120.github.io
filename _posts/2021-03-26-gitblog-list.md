@@ -13,11 +13,11 @@ ex) ./d/minpark0120.github.io/categories
 
 # 2. make [listname].html File
 ```
-a. See other [].html] file
+a. See other [.html] file
 b. change name of the list(in my case, it is type)
 ```
 
-# 3. Goes to _posts folder
+# 3. Go to [_posts] folder
 
 ```
 If you put new list name in your md's categories,
