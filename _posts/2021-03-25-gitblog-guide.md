@@ -14,7 +14,7 @@ comments: true
 ```
 	Go to Setting
     ```
-![3](https://user-images.githubusercontent.com/59559270/112455721-5297e400-8d9d-11eb-811e-fecd6dd114d8.png)
+![3](https://user-images.githubusercontent.com/59559270/112564772-32a90480-8e1f-11eb-9fc1-a4e034b104cd.png)
 
 #3. Change the direction of your website
 ```
