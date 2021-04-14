@@ -1,5 +1,5 @@
 ---
-title: 2021 Summary
+title: 2021-Summary
 categories: [location]
 ---
 
