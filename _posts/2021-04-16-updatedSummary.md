@@ -18,3 +18,8 @@ categories: [location]
 ```
 2021-04-15
 ```
+
+### Policy Gradient Algorithm, policy based agent
+```
+2021-04-16
+```
